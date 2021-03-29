@@ -26,7 +26,7 @@ public class JdbcMemberRepository implements MemberRepository{
         ResultSet rs = null;
 
         try{
-            conn = dataSource.getConnection();
+            conn = getConnection();
             preparedSTMT = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
             preparedSTMT.setString(1, member.getName());
             preparedSTMT.executeUpdate();
