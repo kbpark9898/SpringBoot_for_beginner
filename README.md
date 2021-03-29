@@ -9,7 +9,7 @@
 해당 강의 링크 : 
 https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard
 
-###1. 개요
+### 1. 개요
 시스템의 제작 과정은 다음과 같습니다.
 <br>
 1. 간단한 서비스 시나리오 설정
@@ -20,7 +20,7 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%
 <br>
 
 
-###2. 세부사항
+### 2. 세부사항
 - **실질적 java programming에 대한 이해**
   
 해당 프로젝트는 복잡한 java programming logic을 사용하지 않습니다. 따라서, java programming에 대한 경험이 많지 않은 사람들에게
