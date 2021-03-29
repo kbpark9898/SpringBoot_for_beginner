@@ -23,6 +23,7 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%
 또한, 각 기능에 대한 개발이 완료될 시 test code를 작성하여 특정 service가 제대로 동작하는지에 대해 
 확실하게 점검합니다.
 
+<br>
 
 ### 2. 세부사항
 - **실질적 java programming에 대한 이해**
