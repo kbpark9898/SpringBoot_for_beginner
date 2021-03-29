@@ -18,6 +18,10 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%
 4. service code의 기능을 실제 실행시키는 controller 제작
 5. 회원정보 입력 및 출력을 위한 페이지를 제공해주는 controller 제작
 <br>
+   
+이 과정은 완벽하게 순서대로 진행되지 않고, 각 기능별로 병렬적인 개발이 이루어집니다.
+또한, 각 기능에 대한 개발이 완료될 시 test code를 작성하여 특정 service가 제대로 동작하는지에 대해 
+확실하게 점검합니다.
 
 
 ### 2. 세부사항
@@ -40,6 +44,14 @@ mvc 모델에 입각한 코드를 작성하고, get, post 메소드를 직접 �
 controller - service - repository의 관걔 형성을 위해 스프링 빈 의존성에 대해 학습하며, java annotation 을 이용한 방법과 직접 java code를 작성하여 bean configuration을 등록하는 방법을 모두 다룹니다.
 
 <br>
+
+- **Spring boot test code 작성 이해**
+
+이 프로젝트를 진행하며 개발하는 모든 회원관리 기능(membrerRepository, memberService)에 대해 
+test code를 작성합니다. 이를 통해 해당 기능이 제대로 동작하는지, 예외 상황에 대한 처리가 잘 되어있는지 점검합니다. 
+
+<br>
+
 
 - **데이터베이스 연동**
 
