@@ -9,6 +9,9 @@
 해당 강의 링크 : 
 https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard
 
+
+4월 2주차 내로 본 프로젝트 수행 및 학습을 마치고, 새로운 프로젝트를 시작할 계획입니다.
+
 ### 1. 개요
 시스템의 제작 과정은 다음과 같습니다.
 <br>
